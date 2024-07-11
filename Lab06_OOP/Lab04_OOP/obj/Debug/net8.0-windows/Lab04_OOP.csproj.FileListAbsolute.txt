@@ -1,0 +1,197 @@
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab04_OOP — копия\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab06_OOP\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll

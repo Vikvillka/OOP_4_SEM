@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Lab04_OOP.CustomControl.User"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab04_OOP.CustomControl"
+              xmlns:commands="clr-namespace:Lab04_OOP.Commands" 
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="200">
+    <UserControl.CommandBindings>
+        <CommandBinding Command="commands:AplicationCommand.RestoreStateCommand" Executed="RedoState"/>
+    </UserControl.CommandBindings>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Command="commands:AplicationCommand.RestoreStateCommand" x:Name="userBut" Background="White" Foreground="black">Undo</Button>
+        <Button x:Name="userButR" Background="White" Foreground="Black" Grid.Column="1">Redo</Button>
+    </Grid>
+   
+</UserControl>

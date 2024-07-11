@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|d:\\4_sem_labs\\oop\\lab10_oop\\lab9_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\migrations\\20240416142535_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\migrations\\20240416142535_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\lab9_test\\migrations\\20240417200727_adduseridtocomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AA5D30-D7B3-41B5-9E22-D1568B78288D}|Lab9_test\\Lab9_test.csproj|solutionrelative:lab9_test\\migrations\\20240417200727_adduseridtocomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab9_test\\MainWindow.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\MainWindow.xaml",
+              "RelativeToolTip": "Lab9_test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T17:48:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\AppDbContext.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\AppDbContext.cs",
+              "RelativeToolTip": "Lab9_test\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:31:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\AssemblyInfo.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab9_test\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:17:40.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\App.xaml",
+              "RelativeDocumentMoniker": "Lab9_test\\App.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\App.xaml",
+              "RelativeToolTip": "Lab9_test\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T20:30:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Repository.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\Repository.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Repository.cs",
+              "RelativeToolTip": "Lab9_test\\Repository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:49:38.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\UnitOfWork.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\UnitOfWork.cs",
+              "RelativeToolTip": "Lab9_test\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:49:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab9_test\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:48:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240416142535_MyMigration.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\20240416142535_MyMigration.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\Migrations\\20240416142535_MyMigration.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\20240416142535_MyMigration.cs",
+              "RelativeToolTip": "Lab9_test\\Migrations\\20240416142535_MyMigration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:38:14.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\User.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\User.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\User.cs",
+              "RelativeToolTip": "Lab9_test\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:48:02.071Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Comment.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\Comment.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Comment.cs",
+              "RelativeToolTip": "Lab9_test\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:48:00.324Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\App.config",
+              "RelativeDocumentMoniker": "Lab9_test\\App.config",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\App.config",
+              "RelativeToolTip": "Lab9_test\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T20:30:59.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab9_test\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:37:58.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240417200727_AddUserIdToComments.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\20240417200727_AddUserIdToComments.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\Migrations\\20240417200727_AddUserIdToComments.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\Migrations\\20240417200727_AddUserIdToComments.cs",
+              "RelativeToolTip": "Lab9_test\\Migrations\\20240417200727_AddUserIdToComments.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:38:13.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\IRepository.cs",
+              "RelativeDocumentMoniker": "Lab9_test\\IRepository.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab10_OOP\\Lab9_test\\IRepository.cs",
+              "RelativeToolTip": "Lab9_test\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:50:18.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

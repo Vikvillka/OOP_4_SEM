@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Owner>
+      <FIO>fgh dfg dfgh</FIO>
+      <Passport>FG4567890</Passport>
+      <BirthDate>2005-02-16T00:00:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>345678</AccoyntNumber>
+    <AccountType>Текущий </AccountType>
+    <Balance>124</Balance>
+    <OpenDate>2024-02-23T01:15:24.0771807+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>false</InternetBanking>
+  </Account>
+  <Account>
+    <Owner>
+      <FIO>aaa aas  ss </FIO>
+      <Passport>SD4567890</Passport>
+      <BirthDate>2024-02-23T01:15:24.0791739+03:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>345678</AccoyntNumber>
+    <AccountType>Кредитный</AccountType>
+    <Balance>817</Balance>
+    <OpenDate>2024-02-23T01:15:53.2585005+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+</ArrayOfAccount>

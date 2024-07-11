@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MA+431SS2IRgTf0cxsC5napP7buskq9tyNmF7u6JSO/3eF+fbJOrb+WDYMYqdy4G77PJmqIBJpnC1DwWrh6ghQ==",
+  "success": true,
+  "projectFilePath": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Lab04_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,203 @@
+﻿<Window x:Class="LAB8_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LAB8_2"
+               mc:Ignorable="d"
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MainWindow" Height="600" Width="1200" Loaded="Window_Loaded" Closing="Window_Closing">
+
+    <Grid Background="#dcd1e6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TabControl Margin="20 0">
+
+            <TabItem Header="Добавить запись">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="40,0,40,0" >
+                        <TextBlock Text="ФИО" Margin="3" Foreground="Black" FontWeight="Bold"></TextBlock>
+                        <TextBox x:Name="FIO_Container" Margin="3"  MaxLength="40"></TextBox>
+                        <TextBlock Text="Дата рождения" Margin="3" Foreground="Black" FontWeight="Bold"></TextBlock>
+                        <DatePicker x:Name="BirthD_Picker" Padding="2" SelectedDateChanged="BirthD_Picker_SelectedDateChanged" DisplayDateEnd="04.30.2006"></DatePicker >
+                        <TextBlock Text="Серия паспорта" Margin="3" Foreground="Black" FontWeight="Bold"></TextBlock>
+                        <TextBox x:Name="Pasport_Container" Margin="3" MaxLength="9" ></TextBox>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="20,10,30,0" Width="300" >
+
+                        <TextBlock Text="Тип счета" FontWeight="Bold" Margin="0"></TextBlock>
+                        <ComboBox x:Name="Type_Box"   SelectionChanged="Type_Box_SelectionChanged">
+                            <ComboBoxItem Content="Расчетный"></ComboBoxItem>
+                            <ComboBoxItem Content="Кредитный"></ComboBoxItem>
+                            <ComboBoxItem Content="Депозитный"></ComboBoxItem>
+                            <ComboBoxItem Content="Бюджетный"></ComboBoxItem>
+                        </ComboBox>
+
+                        <TextBlock Text="Начальный баланс" FontWeight="Bold" Margin="0 10 0 0"></TextBlock>
+                        <DockPanel>
+                            <Slider x:Name="StartB_Slider" Margin="3" Minimum="0" ValueChanged="StartB_Slider_ValueChanged" Maximum="500" Width="250"></Slider>
+                            <TextBlock x:Name="valueSlider"  Margin="10 0" Text="0"></TextBlock>
+                        </DockPanel>
+                        <TextBlock Text="Валюта" FontWeight="Bold" Margin="0 10 0 10"></TextBlock>
+
+                        <DockPanel>
+                            <RadioButton x:Name="USD" Content="USD" GroupName="Wallet" Checked="RUB_Checked" Margin="0 0"></RadioButton>
+                            <RadioButton x:Name="BYN" Content="BYN" GroupName="Wallet" Checked="RUB_Checked" Margin="10 0"></RadioButton>
+                            <RadioButton x:Name="RUB" Content="RUB" GroupName="Wallet" Checked="RUB_Checked" Margin="10 0"></RadioButton>
+                        </DockPanel>
+
+                    </StackPanel>
+
+                    <StackPanel HorizontalAlignment="Right"  Grid.Column="3" VerticalAlignment="Center" >
+                        <Button x:Name="Create" Content="Добавить"  FontWeight="Bold" Click="Create_Click" Margin="10 5" Style="{StaticResource MaterialDesignOutlinedButton}"/>
+                        <Button x:Name="updateButton" Content="Обновить" FontWeight="Bold"  Click="updateButton_Click" Margin="10 5"  Style="{StaticResource MaterialDesignOutlinedButton}"/>
+                        <Button x:Name="updateErrorButton" Content="Обновить при ошибке" FontWeight="Bold" Margin="10 5"  Style="{StaticResource MaterialDesignOutlinedButton}" Click="updateErrorButton_Click"/>
+                        <Button x:Name="deleteButton" Content="Удалить" FontWeight="Bold"  Click="deleteButton_Click" Margin="10 5"  Style="{StaticResource MaterialDesignOutlinedButton}"/>
+                       
+                        <Button x:Name="printOwners" Content="Вывод владельцев" Margin="10 15 10 0" Click="printOwners_Click" Width="200"  Style="{StaticResource MaterialDesignFlatButton}"/>
+                        <Button x:Name="printAcc" Content="Вывод счетов" Margin="10 5" Click="printAcc_Click" Style="{StaticResource MaterialDesignFlatButton}" />
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Column="2" Grid.Row="1" Width="210" VerticalAlignment="Center">
+                     
+                        <Border  Width="150"
+                                Margin="0 0 0 10"
+                                Height="150"
+                                BorderBrush="Black" BorderThickness="1" CornerRadius="5">
+                            <Image x:Name="ProductImage"
+                 
+                                Grid.Column="2"
+                                Grid.Row="2"
+                                Width="150"
+                                Stretch="UniformToFill"
+                                Height="150"></Image>
+                        </Border>
+                        <Button
+                            x:Name="addImg"
+                            Height="30"
+                            Width="200"
+                            Content="Добавить изображение"
+       
+                            HorizontalAlignment="Left"
+                            Style="{StaticResource MaterialDesignOutlinedButton}" Click="addImg_Click"
+                            />
+
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+
+            <TabItem Header="Поиск">
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="31,0,0,0">
+                        <TextBlock Text="По типу валюты" FontSize="20" FontWeight="Bold"></TextBlock>
+                        <TextBox x:Name="Wallet_Search_tb" FontSize="24"
+                                     Width="110" Margin="15" MaxLength="3" ></TextBox>
+                        <Button Height="40" x:Name="Wallet_Search"
+                                    Width="150" Content="Выполнить" FontWeight="Bold" FontSize="18" Click="Wallet_Search_Click"  Style="{StaticResource MaterialDesignOutlinedButton}"></Button>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="По фамилии" FontSize="20" FontWeight="Bold" TextAlignment="Center"></TextBlock>
+                        <TextBox x:Name="FIO_SEARCH_TB" FontSize="24" 
+                                     Width="180" Margin="15" MaxLength="15" ></TextBox>
+                        <Button Height="40" x:Name="FIO_Search"
+                                    Width="150" Content="Выполнить" FontWeight="Bold" FontSize="18" Click="FIO_Search_Click"  Style="{StaticResource MaterialDesignOutlinedButton}"/>
+                    </StackPanel>
+
+
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <DockPanel Grid.Row="1" Background="#dcd1e6">
+            <TextBlock  Margin ="20 0" Padding="20 0" FontSize="20" Background="#9b75bd" Foreground="White" FontWeight="Bold">Вывод результата:</TextBlock>
+            <TextBlock x:Name="DateOfG" FontWeight="Bold" Foreground="#73449c" Grid.Row="2" Grid.Column="2" 
+                        VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" TextAlignment="Center"></TextBlock>
+
+            <DockPanel Width="100" HorizontalAlignment="Right" Margin="10 0">
+                <Button x:Name="Up" HorizontalContentAlignment="Left"  Style="{StaticResource MaterialDesignFlatAccentButton}" 
+                    Background="Transparent" Foreground="#73449c" Width="50" Click="Up_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="ArrowBack" Margin="0"/>
+                    </StackPanel>
+                </Button>
+                <Button  x:Name="Back" HorizontalContentAlignment="Left"  Style="{StaticResource MaterialDesignFlatAccentButton}" 
+                        Background="Transparent" Foreground="#73449c" Width="50 " Click="Back_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="ArrowRight" Margin="0"/>
+                    </StackPanel>
+                </Button>
+            </DockPanel>
+
+
+        </DockPanel>
+        <Grid Grid.Row="2" Background="#dcd1e6">
+            <DataGrid AutoGenerateColumns="False" Grid.Row="2" x:Name="phonesGrid" Margin="20 0 20 20" >
+            <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding id}" Header="ID" Width="100" IsReadOnly="True">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Foreground" Value="#800e06" />
+                                <Setter Property="FontSize" Value="18"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Binding="{Binding fio}" Header="ФИО" MinWidth="150" IsReadOnly="False">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Foreground" Value="#800e06" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Binding="{Binding birthDate}" Header="Дата рождениия" Width="150"/>
+                <DataGridTextColumn Binding="{Binding passport}" Header="Паспорт" Width="140"/>
+                <DataGridTextColumn Binding="{Binding accountType}" Header="Тип счета" Width="140"/>
+                <DataGridTextColumn Binding="{Binding startBalance}" Header="Баланс" Width="80"/>
+                <DataGridTextColumn Binding="{Binding wallet}" Header="Валюта" Width="100"/>
+                <DataGridTextColumn Binding="{Binding sendDate}" Header="Дата открытия" Width="150"/>
+                <DataGridTemplateColumn x:Name="DescriptionColumn" Header="Изображение" IsReadOnly="True" MinWidth="220"  >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Border
+                      
+                        CornerRadius="2">
+
+                                    <Image Width="100" Height="100" Stretch="Fill" Source="{Binding ImageData}" Style="{DynamicResource ImageAnim}"/>
+                                </Border>
+                                <!--<TextBlock Padding="3 0 15 0" MaxWidth="110" TextWrapping="Wrap" Text="{Binding ID}" VerticalAlignment="Center"/>-->
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        </Grid>
+
+    </Grid>
+</Window>

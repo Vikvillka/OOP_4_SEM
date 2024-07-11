@@ -1,0 +1,10 @@
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\bin\Debug\Lab01_OOP.exe.config
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\bin\Debug\Lab01_OOP.exe
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\bin\Debug\Lab01_OOP.pdb
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.Form1.resources
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.Properties.Resources.resources
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.csproj.GenerateResource.cache
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.exe
+D:\4_SEM_LABS\OOP\Lab01_OOP\Lab01_OOP\obj\Debug\Lab01_OOP.pdb

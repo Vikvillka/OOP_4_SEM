@@ -1,0 +1,264 @@
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.exe
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll.config
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.deps.json
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Humanizer.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.g.resources
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\refint\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab9_test\Lab9_test\obj\Debug\net8.0-windows\ref\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.exe
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll.config
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.deps.json
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Humanizer.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.g.resources
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\refint\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP\Lab9_test\obj\Debug\net8.0-windows\ref\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.exe
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll.config
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.deps.json
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Humanizer.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.g.resources
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\refint\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab09_OOP — копия\Lab9_test\obj\Debug\net8.0-windows\ref\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.exe
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll.config
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.deps.json
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.runtimeconfig.json
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Humanizer.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\App.baml
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.g.resources
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfoInputs.cache
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.AssemblyInfo.cs
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.csproj.Up2Date
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\refint\Lab9_test.dll
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.pdb
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\Lab9_test.genruntimeconfig.cache
+D:\4_SEM_LABS\OOP\Lab10_OOP\Lab9_test\obj\Debug\net8.0-windows\ref\Lab9_test.dll

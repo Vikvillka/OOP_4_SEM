@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|d:\\4_sem_labs\\oop\\lab04_oop\\lab04_oop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\models\\inputproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\models\\inputproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\models\\inputproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\models\\inputproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\customcontrol\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\customcontrol\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\commands\\aplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\commands\\aplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\commands\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\commands\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\memento\\productmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\memento\\productmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\customcontrol\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\customcontrol\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\resources.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\resources.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\lab04_oop\\lab04_oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D6750A9-0CBF-47F1-BDF9-A1C684737B91}|Lab04_OOP\\Lab04_OOP.csproj|solutionrelative:lab04_oop\\lab04_oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab04_OOP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T23:39:44.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\MainWindow.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml",
+              "RelativeToolTip": "Lab04_OOP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T17:07:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputProduct.xaml.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Models\\InputProduct.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Models\\InputProduct.xaml.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Models\\InputProduct.xaml.cs",
+              "RelativeToolTip": "Lab04_OOP\\Models\\InputProduct.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:18:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputProduct.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Models\\InputProduct.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Models\\InputProduct.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Models\\InputProduct.xaml",
+              "RelativeToolTip": "Lab04_OOP\\Models\\InputProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T23:04:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\App.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\App.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\App.xaml",
+              "RelativeToolTip": "Lab04_OOP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T23:42:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "log.txt",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\log.txt",
+              "RelativeDocumentMoniker": "Lab04_OOP\\log.txt",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\log.txt",
+              "RelativeToolTip": "Lab04_OOP\\log.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-22T10:27:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\AssemblyInfo.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab04_OOP\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:31:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\CustomControl\\User.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\CustomControl\\User.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\CustomControl\\User.xaml",
+              "RelativeToolTip": "Lab04_OOP\\CustomControl\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T23:02:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicationCommand.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Commands\\AplicationCommand.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Commands\\AplicationCommand.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Commands\\AplicationCommand.cs",
+              "RelativeToolTip": "Lab04_OOP\\Commands\\AplicationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:44:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductMemento.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Memento\\ProductMemento.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Memento\\ProductMemento.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Memento\\ProductMemento.cs",
+              "RelativeToolTip": "Lab04_OOP\\Memento\\ProductMemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:35:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Commands\\Functions.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Commands\\Functions.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Commands\\Functions.cs",
+              "RelativeToolTip": "Lab04_OOP\\Commands\\Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:49:40.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Memento\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Memento\\Caretaker.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Memento\\Caretaker.cs",
+              "RelativeToolTip": "Lab04_OOP\\Memento\\Caretaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:33:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\CustomControl\\User.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\CustomControl\\User.xaml.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\CustomControl\\User.xaml.cs",
+              "RelativeToolTip": "Lab04_OOP\\CustomControl\\User.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:13:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "resources.en.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\resources.en.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\resources.en.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\resources.en.xaml",
+              "RelativeToolTip": "Lab04_OOP\\resources.en.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T21:58:29.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "resources.ru.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\resources.ru.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\resources.ru.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\resources.ru.xaml",
+              "RelativeToolTip": "Lab04_OOP\\resources.ru.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T21:55:21.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\App.xaml.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\App.xaml.cs",
+              "RelativeToolTip": "Lab04_OOP\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:26:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Products\\Product.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Products\\Product.cs",
+              "RelativeToolTip": "Lab04_OOP\\Products\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:29:53.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAACMAAAAAAAAAAAAMwIgBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:28:15.622Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InputProduct.g.i.cs",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs",
+              "RelativeDocumentMoniker": "Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs",
+              "RelativeToolTip": "Lab04_OOP\\obj\\Debug\\net8.0-windows\\Models\\InputProduct.g.i.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1QAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:43:10.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab04_OOP\\MainWindow.xaml",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\MainWindow.xaml",
+              "RelativeToolTip": "Lab04_OOP\\MainWindow.xaml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T23:43:39.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lab04_OOP.csproj",
+              "DocumentMoniker": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Lab04_OOP.csproj",
+              "RelativeDocumentMoniker": "Lab04_OOP\\Lab04_OOP.csproj",
+              "ToolTip": "D:\\4_SEM_LABS\\OOP\\Lab04_OOP\\Lab04_OOP\\Lab04_OOP.csproj",
+              "RelativeToolTip": "Lab04_OOP\\Lab04_OOP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T18:31:35.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="Form_Button">Save</system:String>
+    <system:String x:Key="TextName">Name</system:String>
+    <system:String x:Key="Price">Price</system:String>
+    <system:String x:Key="Type">Type</system:String>
+    <system:String x:Key="Search">Search</system:String>
+    <system:String x:Key="Title">Title</system:String>
+    <system:String x:Key="Description">Description</system:String>
+    <system:String x:Key="Add">Add</system:String>
+    <system:String x:Key="Img">Image</system:String>
+    <system:String x:Key="Red">Red</system:String>
+    <system:String x:Key="White">White</system:String>
+    <system:String x:Key="Max">Max</system:String>
+    <system:String x:Key="Min">Мin</system:String>
+    <system:String x:Key="Filter">Filter</system:String>
+</ResourceDictionary>

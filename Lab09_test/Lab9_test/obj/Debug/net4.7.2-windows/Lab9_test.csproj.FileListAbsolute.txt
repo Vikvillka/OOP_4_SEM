@@ -1,0 +1,7 @@
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\Lab9_test.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\Lab9_test.csproj.SuggestedBindingRedirects.cache
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\Lab9_test.exe.config
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\MainWindow.g.cs
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\App.g.cs
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\Lab9_test_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\Lab9_test — копия\Lab9_test\obj\Debug\net4.7.2-windows\Lab9_test_MarkupCompile.lref

@@ -1,0 +1,52 @@
+﻿<Window x:Class="SampleMVVM.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:c="clr-namespace:SampleMVVM.Commands"
+    Title="Main Window" Height="400" Width="600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <ListView ItemsSource="{Binding CourceList}" IsSynchronizedWithCurrentItem="True" Background="Aqua">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Transparent" BorderThickness="1" Margin="10">
+                        <StackPanel Margin="10">
+                            <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding CountHour}" />
+                            <TextBlock Text="{Binding NameTeacher}" />
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Осталось мест:" />
+                                <TextBlock Text="{Binding CountStudent, Mode=TwoWay}" FontWeight="Bold" Margin="10,0"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        <ContentControl Grid.Column="1" Content="{Binding CourceList}">
+            <ContentControl.ContentTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Transparent" BorderThickness="1" Margin="10">
+                        <StackPanel Margin="10">
+                            <TextBlock Text="Название курса:" />
+                            <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+
+                            <TextBlock Text="Преподователь:"/>
+                            <TextBox Text="{Binding NameTeacher, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Записаться" Command="{Binding GiveItemCommand}" Margin="10,0" />
+                                <Button Content="Отписаться" Command="{Binding GetItemCommand}" Margin="10,0" />
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ContentControl.ContentTemplate>
+        </ContentControl>
+    </Grid>
+</Window>
